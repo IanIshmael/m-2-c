@@ -1,3 +1,14 @@
+* {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 25px;
+}
+/*Top!!!*/
+
+h1{
+    font-weight: bolder;
+    font-size: xx-large;
+    display: flex;
+}
 body{
     margin: 0;
 }
@@ -9,6 +20,7 @@ body{
     background-color: black;
     color: white;
     padding: 10px;
+
 }
 .container{
     display: flex;
@@ -17,7 +29,7 @@ body{
 }
 .logo{
     width: 100px;
-    border-radius: 40px;
+    border-radius: 10px;
 }
 .navigation ul{
 display: flex;
@@ -33,3 +45,45 @@ a{
     text-decoration: none;
     color: white;
 }
+
+/*=========================================*/
+
+/*Midlle!!!*/
+
+.work-img{
+    width: 250px;
+    border-radius: 50%;
+}
+
+h2{
+   
+    display: flex;
+}
+
+.primary-column {
+display: flex;
+column-gap: 125px;
+}
+
+.work-sample{
+   column-gap: 125px;
+   float: left;
+   width: 33.33%;
+   padding: 5px;
+}
+
+.work-sample a{
+    color: black;
+}
+
+/*=========================================*/
+
+/*Bottom!!!*/
+
+
+
+
+
+
+
+/*=========================================*/
