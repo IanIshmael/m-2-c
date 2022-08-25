@@ -49,7 +49,7 @@ h1 {
   display: none;
 }
 a {
-  text-decoration: none;
+  
   color: white;
 }
 
@@ -103,6 +103,7 @@ h2 {
 
 .work-sample a {
   color: black;
+
 }
 
 /*=========================================*/
